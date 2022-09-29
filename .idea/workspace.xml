@@ -4,8 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0c56570-2c9e-496e-8477-bc5536d04d51" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/artifacts/app-mbank.jar" afterDir="false" />
+    <list default="true" id="f11be7f0-7779-4a78-ac16-3b5217335925" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/java/ru/netology/rest/MobileBankApiTestV6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-ci/rest/src/test/resources/accounts.schema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,28 +46,56 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FOucgV9DB27l3IHrX8V2zPgSyl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2FR5sGwn8AQth9vHRFGGMun4SxW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="MobileBankApiTestV1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.rest.MobileBankApiTestV1&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MobileBankApiTestV1" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d0c56570-2c9e-496e-8477-bc5536d04d51" name="Changes" comment="" />
-      <created>1664375536502</created>
+      <changelist id="f11be7f0-7779-4a78-ac16-3b5217335925" name="Changes" comment="" />
+      <created>1664442264762</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664375536502</updated>
+      <updated>1664442264762</updated>
     </task>
     <servers />
   </component>
